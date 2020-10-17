@@ -2,12 +2,13 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://khargol1.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
-    "homepage": "khargol1.ghithub.io/photo-port"
+    "react-scripts": "3.4.3"
+    
   },
   "scripts": {
     "start": "react-scripts start",
